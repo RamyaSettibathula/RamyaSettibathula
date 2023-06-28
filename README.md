@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamyaSettibathula
 -  I’m interested in Data Analysis
--  I’m currently learning Data Science
+-  I’m currently learning Data Science and eagerly waiting for dig into world data
 -  I’m looking to collaborate on all of you
 
 
